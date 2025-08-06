@@ -33,10 +33,13 @@ Images or additional files needed to make your notebook or report complete can b
 ### Dependencies
 
 ```
-Python 3.7
-MXNet 1.8
-Pandas >= 1.2.4
-AutoGluon 0.2.0 
+autogluon==1.4.0
+pandas>=1.3.0
+numpy>=1.25.0,<2.4.0
+scikit-learn>=1.0
+matplotlib
+seaborn
+
 ```
 
 ### Installation
